@@ -1,0 +1,125 @@
+{
+  "users": {
+    "altoid": {
+      "username": "altoid",
+      "password": "$2b$10$BR7k7/XKfrLB2DqXHQH13O60vlEwzrJRjkqTJJsGHON2EJJurgNaG",
+      "class": "swordsman",
+      "gold": 136,
+      "highestFloor": 3,
+      "inventory": [
+        {
+          "id": "item_y3732juv3",
+          "name": "Starter Rust Blade (Lvl 2)",
+          "type": "weapon",
+          "rarity": "uncommon",
+          "level": 2,
+          "itemClass": "swordsman",
+          "stats": {
+            "atk": 9,
+            "def": 0,
+            "hp": 0,
+            "healing": 0
+          },
+          "fuseCount": 0,
+          "durability": 7
+        },
+        {
+          "id": "item_1p9b5ebwn",
+          "name": "COMMON Rust Blade (Lvl 1)",
+          "type": "weapon",
+          "rarity": "common",
+          "level": 1,
+          "itemClass": "swordsman",
+          "stats": {
+            "atk": 4,
+            "def": 0,
+            "hp": 0,
+            "healing": 0
+          },
+          "fuseCount": 0
+        },
+        {
+          "id": "item_un7crwa91",
+          "name": "UNCOMMON Scrap Vest (Lvl 1)",
+          "type": "armor",
+          "rarity": "uncommon",
+          "level": 1,
+          "itemClass": "swordsman",
+          "stats": {
+            "atk": 0,
+            "def": 3,
+            "hp": 15,
+            "healing": 0
+          },
+          "fuseCount": 0,
+          "durability": 100,
+          "maxDurability": 100
+        },
+        {
+          "id": "item_4i57ny168",
+          "name": "COMMON Iron Blade (Lvl 1)",
+          "type": "weapon",
+          "rarity": "common",
+          "level": 1,
+          "itemClass": "swordsman",
+          "stats": {
+            "atk": 4,
+            "def": 0,
+            "hp": 0,
+            "healing": 0
+          },
+          "fuseCount": 0,
+          "durability": 100,
+          "maxDurability": 100
+        }
+      ],
+      "equipped": {
+        "weapon": "item_y3732juv3",
+        "armor": null,
+        "accessory": null
+      },
+      "upgrades": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0,
+        "healing": 0
+      },
+      "resourceGears": 4,
+      "xp": 50,
+      "quests": [
+        {
+          "id": "q1_1780450067488",
+          "type": "kill",
+          "target": 20,
+          "progress": 6,
+          "rewardGold": 50,
+          "rewardXp": 100,
+          "done": false,
+          "desc": "Slay Enemies in the Tower"
+        },
+        {
+          "id": "q2_1780450067488",
+          "type": "reach",
+          "target": 10,
+          "progress": 3,
+          "rewardGold": 150,
+          "rewardXp": 300,
+          "done": false,
+          "desc": "Reach a new checkpoint floor"
+        },
+        {
+          "id": "q3_1780450067488",
+          "type": "gold",
+          "target": 200,
+          "progress": 14,
+          "rewardGold": 0,
+          "rewardXp": 200,
+          "rewardItem": true,
+          "done": false,
+          "desc": "Earn Gold in the Tower"
+        }
+      ],
+      "questDate": 1780450067488
+    }
+  }
+}
